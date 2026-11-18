@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicolle Quispe</h1>
+<h1>Hi 👋🏻, I'm Nicolle Quispe</h1>
 
 <a href="https://www.linkedin.com/in/nicolle-quispe-arotinco/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
